@@ -8,7 +8,7 @@ const HowToUseRef=()=>{
     const handleAdd = () =>{
         setCount(count + 1)
         countRef.current++
-
+//This is a simple test for me
         console.log("count:"+count)
         console.log("countRef:"+countRef.current)
     }
