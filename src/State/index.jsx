@@ -8,6 +8,7 @@ const [car, setCar] = useState("Golf")
 
 const carModel = ()=>{
     setCar("BMW")
+        
 }
     return(
         <>
